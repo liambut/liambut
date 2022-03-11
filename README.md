@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Liam Butler
+- 👀 I’m interested in application development and simple UI design
+- I am a UCD computer science student who is developing 2 projects at the moment for my portfolio: a rubiks cube solver and a website for repair shops
